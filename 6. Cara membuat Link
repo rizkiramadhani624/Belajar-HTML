@@ -1,0 +1,19 @@
+<!DOCTYPE html> 
+<html>
+<head> 
+  <title>Majelis Koding</title> 
+</head>
+<body> 
+	<h1> Institut Teknologi Bandung </h1>
+	<h2>Selamat Datang di <strong>Majelis Koding</strong></h2>
+	<p>Bahasa pemrograman apa yang ingin anda pelajari:
+	<a href="https://www.majeliskoding/tutorial-html.com"><em>HTML</em></a>
+	<a href="https://www.majeliskoding/tutorial-css.com"><em>CSS</em></a>
+	<a href="https://www.majeliskoding/tutorial-php.com"><em>PHP</em></a>
+	<a href="https://www.majeliskoding/tutorial-java.com"><em>JAVA</em></a>
+	<a href="https://www.majeliskoding/tutorial-phyton.com"><em>PHYTON</em></a>
+	<br />
+	Silahkan Download File Syarat <a href="hello.html">disini</a>
+	</p>
+</body>
+</html>
