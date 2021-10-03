@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Belajar Form Majelis Koding </title>
+</head>
+
+<body>
+<h1>FORMULIR DATA PRIBADI INVESTOR</h1>
+<form action=" formulir.html" method="get">
+ 
+Nama: <input type="text" name="nama" />
+<br />
+ 
+Password: <input type="password" name="password" />
+<br />
+
+Username: <input type="text" name="username" />
+<br />
+
+Email: <input type="text" name="email" />
+<br />
+ 
+Jenis Kelamin : 
+<input type="radio" name="jenis_kelamin" value="laki-laki" checked /> 
+Laki - Laki
+<input type="radio" name="jenis_kelamin" value="perempuan" /> 
+Perempuan
+<br />
+
+Jenjang_pendidikan:
+ <select name="jenjang_pendidikan" >
+     <option value="Sarjana 3">Doktor/S3</option>
+     <option value="Sarjana 2">Magister/S2</option>
+     <option value="Sarjana 1" selected>Sarjana/S1</option>
+	   <option value="SMA">SMA</option>
+ </select>
+<br />
+
+Asal Kota:
+ <select name="asal_kota" >
+     <option value="Kota Jakarta"> Jakarta</option>
+     <option value="Kota Bandung">Bandung</option>
+     <option value="Kota Bali" selected>Bali</option>
+	   <option value="Kota Surabaya">Surabaya</option>
+	   <option value="Kota Aceh">Aceh</option>
+	   <option value="Kota Riau">Riau</option>
+ </select>
+<br />
+
+Interest: <input type="checkbox" name="interest_bitcoint" /> Bitcoint
+          <input type="checkbox" name="interest_saham" /> Saham
+          <input type="checkbox" name="interest_obligasi" /> Obligasi
+	        <input type="checkbox" name="interest_forex" checked /> Forex
+		      <input type="checkbox" name="interest_binary" /> Binary option
+		      <input type="checkbox" name="interest_gold" /> Gold
+<br />
+ 
+Komentar Anda:
+<textarea name="komentar" rows="8" cols="50">
+Silahkan tulis alasan anda bergabung disini
+</textarea>
+<br />
+ 
+<input type="submit" value="Mulai Proses!" >
+ 
+</form>
+</body>
+</html>
