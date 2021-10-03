@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Belajar HTML Dasar</title>
+</head>
+<body>
+  <h1>Belajar Membuat Header</h1>
+  <p>.....pembahasan artikel.....</p>
+    <h2>Sub Header Nomor 1</h2>
+    <p>.....pembahasan sub artikel 1.....</p>
+    <h2>Sub Header Nomor 2</h2>
+    <p>.....pembahasan sub artikel 2.1.....</p>
+      <h2>Sub Sub Header Nomor 2.1</h2>
+      <p>.....pembahasan sub sub artikel 2.1.....</p>
+</body>
