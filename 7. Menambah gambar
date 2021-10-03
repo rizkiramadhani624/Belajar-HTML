@@ -7,5 +7,7 @@
    <h1>Belajar Tag Gambar HTML</h1>
    <h2>Indonesia is not Wonderfull, Indonesia is Wonderland !!!</h2>
    <img alt="Gambar Indonesia" src="wonderland.jpg" height="600" width="1200" />
+   <p> Link nya ada <a href="http://fotoo-gambar.blogspot.com/2014/08/
+   gambar-pemandangan-terindah-di-indonesia.html"> disini</a></p>
 </body>
 </html>
