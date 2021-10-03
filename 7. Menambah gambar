@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Penggunaan Tag Image</title>
+</head>
+<body>
+   <h1>Belajar Tag Gambar HTML</h1>
+   <h2>Indonesia is not Wonderfull, Indonesia is Wonderland !!!</h2>
+   <img alt="Gambar Indonesia" src="wonderland.jpg" height="600" width="1200" />
+</body>
+</html>
