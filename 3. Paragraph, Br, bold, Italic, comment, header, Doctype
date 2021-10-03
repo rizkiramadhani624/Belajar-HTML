@@ -1,0 +1,15 @@
+<!DOCTYPE html> <!-- Tanda bahwa ini doc html -->
+<html>
+<head> <!-- definisi halaman -->
+  <title>Majelis Koding</title> <!-- title penamaan sebuah web -->
+</head>
+<body> <!-- isi semua element: paragraph, table, link, gambar -->
+	<h1> Institut Teknologi Bandung </h1>
+	<p>Selamat Datang di <strong>Majelis Koding</strong>
+	<br />
+	Bahasa pemrograman apa yang ingin anda pelajari: <em>HTML, CSS, PHP, JAVA, PHYTON</em>
+	<br />
+	<a href="https://www.itb.ac.id">kunjungi link dibaah ini</a>
+	</p>
+</body>
+</html>
