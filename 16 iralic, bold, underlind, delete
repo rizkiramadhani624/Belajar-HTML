@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Belajar HTML di Duniailkom</title>
+</head>
+ 
+<body>
+<h3>Saya sedang belajar HTML di Duniailkom.com</h3>
+<p>HTML adalah singkatan dari <i>Hypertext Markup Language</i></p>
+<p>Saya sedang belajar <em>HTML</em> di Duniailkom.com</p>
+<p>Saya sedang belajar di <b>Duniailkom.com</b></p>
+<p>HTML adalah <strong>bahasa wajib programmer web</strong></p>
+<p><u>HTML</u> atau <u>Hypertext Markup Language</u> 
+<ins>hal pertama yang harus dipelajari adalah HTML</ins></p>
+<del>hal pertama yang harus dipelajari adalah PHP</del>
+<p><s>JavaScript</s> HTML adalah dasar dari
+semua halaman web di internet. Jika anda ingin mempelajari cara 
+membuat website, maka hal pertama yang harus dipelajari adalah HTML</p>
+</body>
+ 
+</html>
