@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+ <style type="text/css">
+   #kalimat{
+      font-weight: bold;
+      }
+   .miring{
+      font-style: italic;
+      }
+ </style>
+<head>
+  <title>Belajar Tag Div dan Span</title>
+</head>
+<body>
+   
+  <div id="header">
+    <h1>TOKOPEDIA E-COMMERCE</h1>
+    <img src="Tokopedia.jpg" />
+  </div>
+     
+  <div id="menu">
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </div>
+     
+  <div id="content">
+  <div id="article_1">
+      <p>......TOKOPEDIA adalah salah satu Start up unicorn yang berasal dari Indonesia.....</p>
+	  <p><strong>Ini adalah <em>Sebuah</em> paragraf </strong></p>
+  <div id="kalimat">
+       Ini juga <span class="miring">Sebuah</span> paragraf
+  </div>
+  </div>
+  </div>
+     
+  <div id="sidebar">
+    <h1>Artikel Terbaru</h1>
+      <ul>
+        <li><a href="#">Link 1</a></li>
+        <li><a href="#">Link 2</a></li>
+        <li><a href="#">Link 3</a></li>
+      </ul>
+    </div>
+     
+  <div id="footer">
+    <p>Footer - Copyright Tokopedia 2021</p>
+  </div>
+</body>
+</html>
