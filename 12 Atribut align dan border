@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Belajar HTML di Majelis Koding</title>
+</head>
+<body>
+<h3 id="judul1">Saya sedang belajar kimia di UGM</h3>
+  
+<p>UGM adalah salah satu kampus terbaik di indonesia.
+<img src="ugm.jpg" alt="Gambar UGM" height="200px"
+align="right" border="5"/>
+Universitas Gadjah Mada lahir dari kancah perjuangan revolusi kemerdekaan bangsa Indonesia. 
+Didirikan pada periode awal kemerdekaan, UGM didaulat sebagai Balai Nasional Ilmu Pengetahuan 
+dan Kebudayaan bagi penyelenggaraan pendidikan tinggi nasional.
+</p>
+  
+</body>
+</html>
