@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Belajar HTML di Duniailkom</title>
+</head>
+ 
+<body>
+<h3>Saya sedang belajar HTML di Majelis Koding.com</h3>
+<p>Tekan tombol <kbd>SHIFT</kbd> untuk mengubah case.
+<p>Variabel <var>a</var> akan berisi nilai integer</p>
+<p>HTML adalah singkatan dari <samp>Hypertext Markup       
+Language</samp></p>
+<h3>Saya sedang belajar HTML di koko koding.com</h3>
+<p>HTML adalah singkatan dari 
+<samp>Hypertext Markup           Language</samp></p>
+</body>
+ 
+</html>
