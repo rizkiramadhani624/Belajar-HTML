@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Belajar HTML di majelis Koding</title>
+</head>
+ 
+<body>
+<h3>Saya sedang belajar HTML di Majeli Koding.com</h3>
+<p>
+<bdo dir="ltr">HTML adalah dasar dari semua halaman web di internet. 
+Jika anda ingin mempelajari cara membuat website,
+maka hal pertama yang harus dipelajari adalah HTML</bdo></p>
+  
+<p>
+<bdo dir="rtl">HTML adalah dasar dari semua halaman web di internet. 
+Jika anda ingin mempelajari cara membuat website,
+maka hal pertama yang harus dipelajari adalah HTML</bdo></p>
+</body>
+ 
+</html>
