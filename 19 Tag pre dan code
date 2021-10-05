@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Belajar HTML di Duniailkom</title>
+</head>
+ 
+<body>
+<h3>Saya sedang belajar HTML di Duniailkom.com</h3>
+<pre>
+Spasi di dalam bagian 
+ 
+ini akan     ditampilkan
+  
+dengan                  apa        adanya
+  
+</pre>
+<p>HTML adalah singkatan dari 
+<code>Hypertext Markup          Language</code></p>
+</body>
+ 
+</html>
