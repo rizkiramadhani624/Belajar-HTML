@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Belajar HTML di Majelis Koding</title>
+</head>
+ 
+<body>
+<h3>Saya sedang belajar HTML di Duniailkom.com</h3>
+<p>3<sup>2</sup> + 5<sup>3</sup> = 9 + 125 = 134</p>
+<p>Dalam rumus kimianya, air ditulis sebagai H<sub>2</sub>O</p>
+</body>
+ 
+</html>
