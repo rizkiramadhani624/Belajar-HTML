@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Belajar HTML di Majelis Koding</title>
+</head>
+  
+<body>
+<h3>Saya sedang belajar HTML di &copy; Majelis Koding.com &#174; &trade;</h3>
+<p>Dalam tutorial kali ini, kita akan belajar untuk menampilkan
+karakter-karakter khusus seperti &lt;, &#062;, &hellip; &amp;</p>
+</body>
+  
+</html>
