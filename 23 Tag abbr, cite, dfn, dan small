@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Belajar HTML di Duniailkom</title>
+</head>
+ 
+<body>
+<h3>Saya sedang belajar HTML di Duniailkom.com</h3>
+<p>
+<abbr title="Hypertext Markup Language">HTML</abbr> 
+adalah dasar dari semua halaman web di internet. 
+Jika anda ingin mempelajari cara membuat website,
+hal pertama yang harus dipelajari adalah HTML
+</p>
+<p>Referensi yang saya gunakan untuk tutorial ini adalah 
+<cite>Learning Web Design</cite>,
+dan <cite>HTML Ultimate Reference</cite>
+</p>
+<p>
+<dfn>Web Browser</dfn> adalah sebuah software aplikasi 
+untuk menerima, menampilkan, dan menerjemahkan informasi 
+dari world wide web (wikipedia).
+Dan salah satu informasi itu dibuat dalam format HTML.
+</p>
+<p>
+HTML adalah dasar dari semua halaman web di internet. 
+Jika anda ingin mempelajari cara membuat website,
+hal pertama yang harus dipelajari adalah HTML.
+<small>Copyright duniailkom.com 2014</small>
+<p>
+</body>
+ 
+</html>
