@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+   <title>Belajar Tag Select HTML</title>
+</head>
+ 
+<body>
+ 
+   <h4>tag Select dengan atribut: name+value+selected:</h4>
+   <form name="form1" action="proses.php" method="get">
+ 
+   <select name="bulan_lahir">
+     <option value="jan">Januari</option>
+     <option value="feb">Februari</option>
+     <option value="mar" selected="selected">Maret</option>
+     <option value="apr">April</option>
+     <option value="mei">Mei</option>
+     <option value="jun">Juni</option>
+     <option value="jul">Juli</option>
+   </select>
+ 
+   </form>
+ 
+   <h4>tag Select dengan atribut: name+value+selected+size=3:</h4>
+   <form name="form2" action="proses.php" method="get">
+ 
+   <select name="bulan_lahir" size="3">
+     <option value="jan">Januari</option>
+     <option value="feb">Februari</option>
+     <option value="mar">Maret</option>
+     <option value="apr">April</option>
+     <option value="mei">Mei</option>
+     <option value="jun">Juni</option>
+     <option value="jul" selected="selected">Juli</option>
+   </select>
+ 
+   </form>
+ 
+   <h4>tag Select dengan atribut: name+value+selected+size=6+multiple:</h4>
+   Tahan tombol crtl pada saat memilih > 1 pilihan.
+   <br />
+   <form name="form2" action="proses.php" method="get">
+ 
+   <select name="bulan_lahir" size="6" multiple="multiple">
+     <option value="jan" selected="selected">Januari</option>
+     <option value="feb">Februari</option>
+     <option value="mar">Maret</option>
+     <option value="apr">April</option>
+     <option value="mei">Mei</option>
+     <option value="jun">Juni</option>
+     <option value="jul">Juli</option>
+   </select>
+ 
+   </form>
+ 
+   <h4>tag Select dengan atribut: name+value+selected+disabled</h4>
+   <form name="form2" action="proses.php" method="get">
+ 
+   <select name="bulan_lahir" disabled="disabled">
+     <option value="jan">Januari</option>
+     <option value="feb">Februari</option>
+     <option value="mar">Maret</option>
+     <option value="apr">April</option>
+     <option value="mei"selected="selected">Mei</option>
+     <option value="jun">Juni</option>
+     <option value="jul">Juli</option>
+   </select>
+ 
+   </form>
+ 
+   <h4>tag Select dengan atribut: name+value dan tag optgroup</h4>
+   <form name="form2" action="proses.php" method="get">
+ 
+   <select name="bulan_lahir">
+   <optgroup label="Triwulan 1">
+     <option value="jan">Januari</option>
+     <option value="feb">Februari</option>
+     <option value="mar">Maret</option>
+   </optgroup>
+   <optgroup label="Triwulan 2">
+     <option value="apr">April</option>
+     <option value="mei">Mei</option>
+     <option value="jun">Juni</option>
+   </optgroup>
+   <optgroup label="Triwulan 3">
+     <option value="jul">Juli</option>
+   </optgroup>
+   </select>
+ 
+   </form>
+ 
+</body>
+</html>
